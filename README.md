@@ -16,7 +16,9 @@ Formulário de avaliação em multietapas</p>
 <br>
 
 <p align="center"> 
-  <img alt="form-multietapas" src="form-multi.PNG" width="100%">
+  <img alt="form-multietapas" src="form-multi.PNG" width="50%">
+  <img alt="form-multietapas" src="form-multi2.PNG" width="50%">
+  <img alt="form-multietapas" src="form-multi3.PNG" width="50%">
 </p>
 
 ## 🚀 Tecnologias

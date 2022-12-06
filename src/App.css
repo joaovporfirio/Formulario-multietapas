@@ -77,3 +77,19 @@ textarea {
 .actions button:hover {
     background-color: #cfcfcf;
 }
+
+@media (max-width: 450px) {
+
+    .form_container {
+        max-width: 350px;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 1rem;
+        box-shadow: rgba(100,100,111,.2) 0px 7px 29px 0px;
+    }
+    
+    .form_container form {
+        max-width: 300px;
+        margin: 0 auto
+    }
+}
